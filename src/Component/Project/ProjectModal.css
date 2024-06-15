@@ -1,0 +1,10 @@
+.carousel .slide img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  .carousel .control-arrow, 
+  .carousel.carousel-slider .control-arrow {
+    display: none;
+  }
+  

@@ -1,0 +1,23 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .projects {
+    display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+  }
+  
+  .projectcard {
+    width: 400px;
+    height: 200px;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+ flex-direction: column;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15vw;
+  }
+  
