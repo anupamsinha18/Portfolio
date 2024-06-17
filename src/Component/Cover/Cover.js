@@ -85,7 +85,7 @@ export default function Cover({ isOpen, isProject,issProject }) {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.5, duration: 3 }}
         >
-          {renderTextWithSpaces("SUBHAJIT CHATTERJEE")}
+          {renderTextWithSpaces("Anupam Sinha")}
         </motion.h1>
         <motion.p
           className="heading3"

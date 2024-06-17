@@ -13,7 +13,9 @@
     padding: 10px;
     box-sizing: border-box;
   }
-  
+  .whi{
+    margin-left: 0px;
+  }
   .sidenav-content {
     margin-top: 20px;
     display: flex;

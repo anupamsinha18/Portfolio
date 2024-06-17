@@ -43,7 +43,7 @@ export default function Sidenav({ setIsOpen, isOpen,isHomes,isAbouts,openHome,op
         animate={{ x: isOpen ? 150 : 20 }}
         transition={{ duration: 0.5 }}
       >
-        <MenuIcon onClick={toggleSidenav} style={{ cursor: 'pointer' }} />
+        <MenuIcon onClick={toggleSidenav} style={{ cursor: 'pointer',display:"flex" }} />
       </motion.div>
 {isOpen ? 
       <motion.div

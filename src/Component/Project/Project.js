@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Modal, Box, Typography } from '@mui/material';
 import ProjectModal from './ProjectModal';
 import './Project.css';
-import img1 from '../../asset/pic4.jpg'
+import img1 from '../../asset/pic5.jpg'
 
 const projects = [
   {
